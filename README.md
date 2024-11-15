@@ -22,5 +22,4 @@ The `lessons` folder serves as your learning resource hub. It contains in-depth 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your_username/nextjs-learning-project.git](https://github.com/your_username/nextjs-learning-project.git)
->>>>>>> ddd36b8 (Initial commit)
+   git clone https://github.com/ahmedsaed7/NEXT.JS.githttps://github.com/ahmedsaed7/NEXT.JS.git
